@@ -2,8 +2,10 @@
 
 Este em mi primer proyecto con codigo
 
-espero que haya de comer en mi casa
-
-me olvide arreglar la mochila del baño
+es una practica
 
 quiero salir a las 8
+
+
+
+
